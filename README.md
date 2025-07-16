@@ -9,7 +9,6 @@ This one is getting wild. It’s my main focus right now (when I'm coding for fu
 Helped a friend with a college assignment and ended up improving it a bit. Not that impressive, but it’s something.
 
 ### 🐴 [Schoola](https://github.com/vgomes-p/schoola)  
-Total "go horse" style. Sorry in advance for what your eyes will witness.
 
 ### ⚙️ [Coder-Auto-Start](https://github.com/vgomes-p/Coder-Auto-Start)  
 An automation script I made... but don’t use because my laptop boots too fast for it to work properly 😅
