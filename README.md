@@ -1,6 +1,6 @@
 # Still working on this page — sorry for the mess!
 
-Here's a quick rundown of my public projects. No fancy README yet, just raw links and some honest context:
+#### Here's a quick rundown of my public projects. No fancy README yet, just raw links and some honest context:
 
 ### 🔧 [CodeSim](https://github.com/vgomes-p/CodeSim)  
 This one is getting wild. It’s my main focus right now (when I'm coding for fun).
